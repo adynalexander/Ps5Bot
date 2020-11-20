@@ -5,7 +5,7 @@ Install Node.js
 version should be >12.9
 Install git
 download this project
-git clone https://github.com/VVNoodle/PS5bot
+git clone https://github.com/adynalexander/Ps5Bot
 Open up a terminal
 go to project directory cd /the/project/directory
 Install yarn by running npm i -g yarn
